@@ -1,0 +1,22 @@
+SITE INSTITUCIONAL — PROMOÇÃO DE VENDAS
+
+Arquivos principais:
+- index.html: página inicial completa
+- sobre.html: página separada Sobre a Empresa
+- politica-de-privacidade.html: política de privacidade
+- termos-de-uso.html: termos de uso
+- assets/style.css: estilos personalizados
+- assets/: imagens fornecidas para o site
+
+COMO USAR
+1. Extraia todos os arquivos do ZIP mantendo a estrutura de pastas.
+2. Abra index.html no navegador para visualizar localmente. Bootstrap e ícones carregam de CDNs, então alguns recursos exigem internet.
+3. Para publicar, envie todos os arquivos e a pasta assets para a hospedagem, mantendo a estrutura.
+4. Confirme o domínio, HTTPS, e-mail/telefone, razão social, CNPJ, endereço e data cadastral antes de publicar.
+
+IMPORTANTE SOBRE GOOGLE ADS E PRIVACIDADE
+- Ter páginas de privacidade, termos e sobre não garante aprovação no Google Ads. A aprovação depende também da oferta real, destino, transparência, políticas da plataforma e consistência das informações.
+- A página usa imagens ilustrativas de campanhas; elas não afirmam que há produtos, preços ou descontos específicos disponíveis.
+- A política de privacidade é um modelo inicial e deve refletir as práticas reais. Se adicionar tags do Google Ads, Google Analytics, pixels, formulário, cookies ou outras ferramentas, atualize a política e implemente os avisos/consentimentos aplicáveis antes de ativá-los.
+- Confirme que possui direitos de uso comercial das imagens fornecidas antes de publicar o site.
+- Este material não constitui aconselhamento jurídico.
